@@ -26,7 +26,7 @@ bool checkPalindrome(char a[], int n) {
     }
     return 1;
 }
-
+ 
 void reverse(char name[], int n) {
     int s=0;
     int e = n-1;
