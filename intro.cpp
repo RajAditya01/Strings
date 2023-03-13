@@ -10,7 +10,6 @@ char toLowerCase(char ch) {
     }
 }
 
-
 bool checkPalindrome(char a[], int n) {
     int s = 0;
     int e = n-1;
