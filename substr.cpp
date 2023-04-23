@@ -6,7 +6,7 @@ int main()
 {
 	// Take any string
 	string s1 = "Geeks";
-    string s2 ="eeks"
+    string s2 ="eeks";
 
 	// Copy two characters of s1 (starting
 	// from position 3)
